@@ -4,6 +4,6 @@ module.exports = (req, res) => {
   // const { query } = parse(req.url, true)
   // const { name = 'World' } = query
   console.log("log test");
-  const name = "foo";
+  const name = "bar";
   res.end(`Hello ${name}!`)
 }
