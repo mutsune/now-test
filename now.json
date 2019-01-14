@@ -1,5 +1,6 @@
 {
   "version": 2,
   "now": "now-test",
+  "alias": "nowtest",
   "builds": [{ "src": "./index.js", "use": "@now/node" }]
 }
