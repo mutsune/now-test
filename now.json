@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "now": "now-test",
-  "alias": "nowtest",
+  "name": "now-test",
+  "alias": "mutsune-now-test-bar3",
   "builds": [{ "src": "./index.js", "use": "@now/node" }]
 }
